@@ -1,0 +1,1 @@
+# Repositório destinado ao estudo do livro "Introdução a Linguagem SQL"
